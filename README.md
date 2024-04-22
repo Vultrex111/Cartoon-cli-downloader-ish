@@ -13,6 +13,9 @@ And the rest is in Your hands.
 Dependencies
 
 pip install ffmpeg
+
 pip install clipboard
+
+code does not work if link is copied while connected to a vpn, cause the link need to the the expires= ID number in order to work, or elso http 403 error.
 
 
