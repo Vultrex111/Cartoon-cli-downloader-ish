@@ -9,3 +9,10 @@ just run:
 python or phython3 hope.py
 
 And the rest is in Your hands.
+
+Dependencies
+
+pip install ffmpeg
+pip install clipboard
+
+
